@@ -1,0 +1,15 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.alien.sleeping": {
+            "loop": false,
+            "animation_length": 5.5,
+            "timeline": {
+                "5.5": [
+                    "/time set 0",
+                    "/weather clear"
+                ]
+            }
+        }
+    }
+}
