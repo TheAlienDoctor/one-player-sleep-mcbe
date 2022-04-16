@@ -1,9 +1,9 @@
 ﻿{
     "format_version": 2,
     "header": {
-        "description": "§9PACK DESCRIPTION §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
-        "name": "§1Alien's §ePack name §4(V1.0.0)",
-        "uuid": "UUID1 HERE",
+        "description": "§9Only one player will need to sleep to skip to day, and change the weather to clear §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
+        "name": "§1Alien's §eOne player sleep §4(V1.0.0)",
+        "uuid": "bfb96636-a689-422e-9d1b-5e4042ffd277",
         "version": [
             1,
             0,
@@ -17,9 +17,9 @@
     },
     "modules": [
         {
-            "description": "§9PACK DESCRIPTION §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
-            "type": "resources | data",
-            "uuid": "UUID2 HERE",
+            "description": "§9Only one player will need to sleep to skip to day, and change the weather to clear §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
+            "type": "data",
+            "uuid": "12748bf8-c003-4fdd-b058-50aedbbedee2",
             "version": [
                 1,
                 0,
