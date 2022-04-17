@@ -3,9 +3,9 @@
     "animations": {
         "animation.alien.sleeping": {
             "loop": false,
-            "animation_length": 5.5,
+            "animation_length": 5.1,
             "timeline": {
-                "5.5": [
+                "5.1": [
                     "/time set 0",
                     "/weather clear"
                 ]
