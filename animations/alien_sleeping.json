@@ -6,7 +6,8 @@
             "animation_length": 5.2,
             "timeline": {
                 "5.1": [
-                    "/time set 0",
+                    "/time set day",
+                    "/time add -1000",
                     "/weather clear"
                 ]
             }
