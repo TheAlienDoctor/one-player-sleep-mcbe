@@ -8,7 +8,7 @@
                 "5.1": [
                     "/time set day",
                     "/time add -1000",
-                    "/weather clear"
+                    "/weather clear 36000"
                 ]
             }
         }
