@@ -8,12 +8,12 @@
       "is_experimental": false,
       "scripts": {
         "animate": [
-          "ac_alien_sleep"
+          "alien_sleep.ac"
         ]
       },
       "animations": {
-        "ac_alien_sleep": "controller.animation.alien.sleep",
-        "a_alien_sleep": "animation.alien.sleep"
+        "alien_sleep.ac": "controller.animation.alien.sleep",
+        "alien_sleep.a": "animation.alien.sleep"
       }
     },
     "component_groups": {
