@@ -6,7 +6,7 @@
             "animation_length": 5.2,
             "timeline": {
                 "5.1": [
-                    "/function alien_sleep"
+                    "/function alien/sleep"
                 ]
             }
         }

@@ -13,7 +13,7 @@
 				},
 				"sleeping": {
 					"animations": [
-						"a_alien_sleep"
+						"alien_sleep.a"
 					],
 					"transitions": [
 						{
