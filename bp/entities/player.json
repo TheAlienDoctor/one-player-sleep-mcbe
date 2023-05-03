@@ -130,7 +130,9 @@
 				"always_show": true,
 				"allow_name_tag_renaming": false
 			},
-			"minecraft:physics": {},
+			"minecraft:physics": {
+				"push_towards_closest_space": true
+			},
 			"minecraft:pushable": {
 				"is_pushable": false,
 				"is_pushable_by_piston": true
