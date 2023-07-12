@@ -5,8 +5,9 @@
             "loop": false,
             "animation_length": 5.2,
             "timeline": {
-                "5.1": [
-                    "/function alien/sleep"
+                "0.0": [
+                    "/function alien/sleep",
+                    "/say §6§lNote:§r Due to a §2Minecraft bug§r with §41.20.10§r, the §oonly§r way to make this work is for the player to sleep instantly. As soon as this Minecraft bug is fixed I will update the addon back to how it was before :)"
                 ]
             }
         }

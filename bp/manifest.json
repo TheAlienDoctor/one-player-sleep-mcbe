@@ -1,29 +1,29 @@
 ﻿{
 	"format_version": 2,
 	"header": {
-		"description": "§rOnly one player will need to sleep to skip to day, and change the weather to clear. | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.1 §r",
-		"name": "§1§lAlien's§r §eOne Player Sleep §4(BP-V1.1.1)§r",
+		"description": "§rOnly one player will need to sleep to skip to day, and change the weather to clear. | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.2 §r",
+		"name": "§1§lAlien's§r §eOne Player Sleep §4(BP-V1.1.2)§r",
 		"uuid": "b9bb2e25-ad6c-4701-ba46-54dbf18c58c0",
 		"version": [
 			1,
 			1,
-			1
+			2
 		],
 		"min_engine_version": [
 			1,
-			19,
-			80
+			20,
+			0
 		]
 	},
 	"modules": [
 		{
-			"description": "§rOnly one player will need to sleep to skip to day, and change the weather to clear. | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.1 §r",
+			"description": "§rOnly one player will need to sleep to skip to day, and change the weather to clear. | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.2 §r",
 			"type": "data",
 			"uuid": "22951a7d-b205-4e25-80cf-9b34bb5cc81b",
 			"version": [
 				1,
 				1,
-				1
+				2
 			]
 		}
 	],
@@ -33,7 +33,7 @@
 			"version": [
 				1,
 				1,
-				1
+				2
 			]
 		}
 	],
