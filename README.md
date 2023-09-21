@@ -14,6 +14,7 @@ As well as this, you can optionally use the resource pack to turn certain texts 
 ### Compatability
 **Note:** V1.2.0 is designed to be a universal version, but may cause minor content log errors. Most of the time this can just be ignored, but I would recommend only using that version if there is no other version that supports you Minecraft version.
 | Pack version | Minecraft Version |
+| - | - |
 | V1.2.0 | 1.13.0 - 1.20.0 [Universal] |
 | V1.1.2 | 1.20.10 - 1.20.30 |
 | V1.1.1 | 1.19.80 - 1.20.0 |
